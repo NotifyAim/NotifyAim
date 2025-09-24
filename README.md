@@ -81,7 +81,7 @@ We welcome contributions from the community 🚀
   
 - 📧 notifyaim61@gmail.com
   
-- 📱 WhatsApp: Example: https://wa.me/8808921230?text=Hi%20%20Notify%20Aim!👋👋 +91-8808 92 1230 (Mon–Sat, 10 AM – 8 PM)
+- 📱 WhatsApp: [+91-8808 92 1230](https://wa.me/8808921230?text=Hi%20%20Notify%20Aim!👋👋) (Mon–Sat, 10 AM – 8 PM)
 
 
 
