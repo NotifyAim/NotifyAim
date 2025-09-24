@@ -58,7 +58,7 @@ We welcome contributions from the community 🚀
 - [🌐 Website](https://notifyaim.com)
 - 📧 support@notifyaim.com
 - 📱 WhatsApp: +91-8808 92 1230 (Mon–Sat, 10 AM – 8 PM)
--- OR --
+
 ## Connect with me:
 <p align="left">
   <a href="https://twitter.com/aimnotify" target="blank">
