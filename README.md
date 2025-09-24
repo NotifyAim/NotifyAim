@@ -79,9 +79,9 @@ We welcome contributions from the community 🚀
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@notifyaim" height="30" width="40" />
   </a>
   
-- 📧 support@notifyaim.com
+- 📧 notifyaim61@gmail.com
   
-- 📱 WhatsApp: +91-8808 92 1230 (Mon–Sat, 10 AM – 8 PM)
+- 📱 WhatsApp: Example: https://wa.me/8808921230?text=Hi%20%20Notify%20Aim!👋👋 +91-8808 92 1230 (Mon–Sat, 10 AM – 8 PM)
 
 
 
