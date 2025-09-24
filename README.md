@@ -55,9 +55,8 @@ We welcome contributions from the community 🚀
 - Open a Pull Request
 
 ## 📬 Contact
-<p align="left">
  - <a href="https://notifyaim.cim" target="blank">
-    <img align="center" src="https://docs.notifyaim.com/public/asset/images/app/logo.png" alt="aimnotify" height="30" width="40" />
+    <img align="center" src="https://docs.notifyaim.com/public/asset/images/app/logo.png" alt="aimnotify" height="40" />
   </a>
  - <a href="https://twitter.com/aimnotify" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aimnotify" height="30" width="40" />
@@ -76,6 +75,6 @@ We welcome contributions from the community 🚀
   </a>
 - 📧 support@notifyaim.com
 - 📱 WhatsApp: +91-8808 92 1230 (Mon–Sat, 10 AM – 8 PM)
-</p>
+
 
 
