@@ -1,17 +1,36 @@
 <h1 align="center">Hi 👋, I'm Notify Aim</h1>
-<h3 align="center">A passionate API developer from India</h3>
+<h3 align="center">Push Notifications Made Simple</h3>
+Easily send web, mobile, and in-app push notifications with advanced segmentation, scheduling, and analytics.  
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=notifyaim&label=Profile%20views&color=0e75b6&style=flat" alt="notifyaim" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=notifyaim&label=Profile%20views&color=0e75b6&style=flat" alt="notifyaim" /> 
+</p>
 
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notifyaim" alt="notifyaim" /></a> </p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=notifyaim" alt="notifyaim" />
+  </a> 
+</p>
 
 <p align="left"> 
   <a href="https://twitter.com/aimnotify" target="blank">
     <img src="https://img.shields.io/twitter/follow/aimnotify?logo=twitter&style=for-the-badge" alt="aimnotify" />
   </a> 
 </p>
+
+---
+
+## ✨ Features  
+- 🌐 **Web Push Notifications** – Chrome, Firefox, Edge, Safari  
+- 📱 **Mobile Push Support** – Android & Desktop  
+- 🗂 **Topic-based Subscriptions** – Segment users by interest  
+- 🔄 **Resubscription Handling** – Smooth user opt-in flow  
+- ⚡ **Real-time Delivery** – Low latency via WebSockets / SSE  
+- 📊 **Analytics & Reporting** – Track clicks, opens & reach  
+- 🛠️ **Open API & SDK** – Flexible for developers  
+- 🎯 **Custom Click Actions** – Drive users where you want  
+
+---
 
 - 🔭 I’m currently working on [Notify Aim](https://notifyaim.com)
 
